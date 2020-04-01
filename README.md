@@ -10,4 +10,8 @@
 ## $ kubectl get pods
 
 
-# if you feel any difficulty contactc me
+# if you feel any difficulty contact me
+
+## dawoodsadiq171@gmail.com
+
+# Do check my other Kubernetes Repositories
