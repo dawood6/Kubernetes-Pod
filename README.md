@@ -8,3 +8,6 @@
 
 
 ## $ kubectl get pods
+
+
+# if you feel any difficulty contactc me
