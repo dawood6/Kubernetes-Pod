@@ -5,3 +5,6 @@
 ## $ nano pod.yaml
 
 ## $ kubectl create -f pod.yaml
+
+
+## $ kubectl get pods
